@@ -1,4 +1,6 @@
-{ "geojson": 
-'{"type":"Polygon","coordinates":[[[-84,36],[-84,40],[-80,40],[-80,36],[-84,36]]]}'
-}
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "ZIP": "60647" }, "geometry": {"type":"Polygon","coordinates":[[[-84,36],[-84,40],[-80,40],[-80,36],[-84,36]]] } }
+] }
 
